@@ -1,0 +1,18 @@
+    img {
+        width: 200px;
+        height: 100px;
+        border-radius: 400%;
+    }
+    
+    h3 {
+        color: blue !important;
+        text-align: center;
+        font-size: 30px;
+        background-color: brown;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    
+    p {
+        width: 50%;
+        background-color: darkblue;
+    }
